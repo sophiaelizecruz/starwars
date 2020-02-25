@@ -1,0 +1,106 @@
+body {
+    background-image: url("sw.jpg");
+    padding: 0;
+}
+.ui.borderless.topmenu.menu {
+    background-image: url("sw.jpg");
+    padding: 5px;
+}
+
+ .ui.inverted.sw.menu{
+    background-color: #000000;
+}
+
+.ui.inverted.se.menu{
+    background-color: transparent;
+    color: white;
+}
+
+.ui.basic.inverted.vader.segment {
+    background-image: url("vader.png");
+    position: center;
+}
+
+.ui.centered.inverted.terms.menu {
+    font-size: small;
+    background-color: transparent;
+}
+
+.ui.centered.icons.grid {
+    padding: 25px;
+    background-color: transparent;
+}
+
+.ui.fluid.tros.container {
+    background-image: url("highrepublic.jpg");
+    width: 1440px;
+    height: 500px;
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    color: white;
+    font-size: xx-large;
+    text-shadow: 10px 10px 8px #000000;
+    font-style: italic;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sub {
+    position: absolute;
+    color: white;
+    font-size: large;
+    text-shadow: 10px 10px 8px #000000;
+    text-align: center;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.explore {
+    position: absolute;
+    color: white;
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+    top: 75%;
+    left: 44%;
+    width: 150px;
+    transform: translate(-50%, -50%);
+}
+
+.watch {
+    position: absolute;
+    color: white;
+    opacity: 0.75;
+    font-size: x-large;
+    text-align: center;
+    top: 75%;
+    left: 55%;
+    width: 150px;
+    transform: translate(-50%, -50%);
+}
+
+.ui.centered.ad.list {
+    border-radius: 10%;
+    padding: 25px;
+    margin: 10px;
+}
+
+.follow {
+    font-size: small;
+}
+
+.images {
+    position: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-170%, -50%);
+}
+
+.ui.padded.centered.inverted.sm.container {
+    transform: translate(-170%, -50%);
+}
