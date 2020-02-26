@@ -107,3 +107,7 @@ body {
 .ui.icon.s.input {
     opacity: 0.75;
 }
+
+.ui.centered.three.item.borderless.show.menu {
+    background-color: transparent;
+}
